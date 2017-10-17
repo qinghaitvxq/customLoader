@@ -1,0 +1,22 @@
+{
+  "name": "customloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qinghaitvxq/customLoader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qinghaitvxq/customLoader/issues"
+  },
+  "homepage": "https://github.com/qinghaitvxq/customLoader#readme",
+  "devDependencies": {
+    "webpack": "^3.7.1"
+  }
+}
